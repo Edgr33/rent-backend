@@ -14,7 +14,7 @@ var clients = [
   lastName: 'Pérez',
   rut: '12345678-9',
   phone: 9912345678,
-  bizName: 'Da Vinci Apps',
+  bizName: 'Constructora Sherpa',
   bizRut: '78336330-k'
   },
 ]
