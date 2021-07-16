@@ -1,13 +1,21 @@
 var clients = [
   {
   id: '1',
-  firstName: 'fred',
-  lastName: 'durst'
+  firstName: 'Nicolas',
+  lastName: 'Molina',
+  rut: '12345678-9',
+  phone: 9912345678,
+  bizName: 'Da Vinci Apps',
+  bizRut: '74116330-k'
   },
   {
   id: '2',
-  firstName: 'nicolas',
-  lastName: 'cage'
+  firstName: 'Fernando',
+  lastName: 'Pérez',
+  rut: '12345678-9',
+  phone: 9912345678,
+  bizName: 'Da Vinci Apps',
+  bizRut: '78336330-k'
   },
 ]
 
